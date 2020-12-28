@@ -1,0 +1,32 @@
+PODS:
+  - AFNetworking/Serialization (3.2.1)
+  - NSHash (1.2.0)
+  - ReachabilitySwift (4.3.1)
+  - SnapKit (5.0.0)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - AFNetworking/Serialization (~> 3.2.1)
+  - NSHash (~> 1.2.0)
+  - ReachabilitySwift (~> 4.3.0)
+  - SnapKit (= 5.0.0)
+  - YYText (~> 1.0.7)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - NSHash
+    - ReachabilitySwift
+    - SnapKit
+    - YYText
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  NSHash: 036c03781d372c288d332b512b203e7bb832e46e
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: ee1c15be8199082865a1d0af1d80e76a97ec8708
+
+COCOAPODS: 1.9.1
