@@ -1,12 +1,26 @@
 PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
   - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
   - NSHash (1.1.0)
   - ReachabilitySwift (4.3.1)
   - SnapKit (5.0.0)
   - YYText (1.0.7)
 
 DEPENDENCIES:
-  - AFNetworking/Serialization (~> 3.2.1)
+  - AFNetworking (~> 3.2.1)
   - NSHash (= 1.1.0)
   - ReachabilitySwift (~> 4.3.0)
   - SnapKit (= 5.0.0)
@@ -27,6 +41,6 @@ SPEC CHECKSUMS:
   SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
   YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
 
-PODFILE CHECKSUM: ea02438f5e2dea72083bb99a2f3150035236d7f5
+PODFILE CHECKSUM: d30044d05e2a68cdc4c5670336dc287bb407082c
 
 COCOAPODS: 1.9.1
